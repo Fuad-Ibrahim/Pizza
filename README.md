@@ -1,2 +1,4 @@
 # Pizza
-My Fav Pizza
+My Favorite Pizza Toppings
+
+## By Fuad Ibrahim
